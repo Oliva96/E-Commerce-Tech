@@ -1,3 +1,3 @@
-import Stripe from 'stripe';
+// import Stripe from 'stripe';
 
-const stripe = new Stripe();
+// const stripe = new Stripe();
